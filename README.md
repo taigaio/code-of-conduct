@@ -7,7 +7,7 @@ This code of conduct applies to all of the projects under the
  Taiga community at large (mailing lists, Twitter, etc.).
 
 See the [contributing guidelines](https://github.com/taigaio/taiga-back/blob/master/CONTRIBUTING.md)
-for technical details of contributing to iany of the Taiga project.
+for technical details of contributing to any of the Taiga project.
 
 
 ### Credits
