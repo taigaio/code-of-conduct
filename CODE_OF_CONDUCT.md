@@ -1,5 +1,5 @@
 # Taiga.io Community CoC (Code of Conduct)
-### Version 0.1
+### Version 0.2
 
 As contributors and maintainers of any Taiga.io project, and in the interest of
 fostering an open and welcoming community, we pledge to respect all people who
@@ -33,20 +33,19 @@ this project. Project maintainers who do not follow or enforce the Code of
 Conduct may be permanently removed from the project team.
 
 This code of conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community (like our
- mailing list, Google Groups, in Twitter, Facebook, etc.).
+when an individual is representing the project or its community (like
+Twitter, Discourse, LinkedIn, etc.).
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting a project maintainer at
-[conduct@taiga.io](mailto:coc@taiga.io). All complaints will be reviewed
+[conduct@taiga.io](mailto:conduct@taiga.io). All complaints will be reviewed
 and investigated and will result in a response that is deemed necessary and
 appropriate to the circumstances. Maintainers are obligated to maintain
 confidentiality with regard to the reporter of an incident.
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 1.3.0, available at
-[http://contributor-covenant.org/version/1/3/0/][version]
+version 2.1, available at
+[http://contributor-covenant.org/version/2/1/][version]
 
 [homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/3/0/
-
+[version]: http://contributor-covenant.org/version/2/1/
